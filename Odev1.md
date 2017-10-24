@@ -6,7 +6,7 @@ Sınıf | Öğrenci İsmi           | Numara
 ------|------------------------|--------
 9-C   | Duru Yeşiloğlu         | 531
 9-C   | Safiye Yıldız          | 662
-9-C   | Zeynep Ceren Erkoyuncu |
+9-C   | Zeynep Ceren Erkoyuncu | 588
 
 #  Drinking Straw
 ## Özet

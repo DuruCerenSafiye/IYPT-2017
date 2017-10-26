@@ -5,7 +5,7 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 Sınıf | Öğrenci İsmi           | Numara
 ------|------------------------|--------
 9-C   | Duru Yeşiloğlu         | 531
-9-C   | Safiye Yıldız          | 662
+9-C   | Safiye Yıldız          | 592
 9-C   | Zeynep Ceren Erkoyuncu | 588
 
 #  Drinking Straw

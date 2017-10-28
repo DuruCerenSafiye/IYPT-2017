@@ -15,4 +15,5 @@ Günlük hayatta kullandığımız bazı içeceklerin içine pipet koyduğumuzda
 ## Kaynakçalar  
 
 https://www.gypt.org/aufgaben/05-drinking-straw.html
+
 https://www.youtube.com/watch?v=B7cLerUc_X8

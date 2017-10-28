@@ -10,7 +10,7 @@ Sınıf | Öğrenci İsmi           | Numara
 
 #  Drinking Straw
 ## Özet
-Günlük hayatta kullandığımız bazı içeceklerin içine pipet koyduğumuzda pipetin yükseldiğini hatta bazen devrildiğini gözlemleyebiliriz. Hangi koşullar altında pipet yükselir? Pipetin yükselme hızını etkileyen faktörler nelerdir? Hangi durumda pipet devrilir? sorularının cevaplarını bularak amacımıza ulaşmaya çalışacağız. Bunun için; sıvı cinsini, sıvı miktarını, kullandığımız kabın cinsini ve pipetin cinsini değiştirerek deneyler yapacağız. Yapacağımız deneylerin sonuçlarını karşılaştırarak sorularımızın cevaplarını bulup asıl sorumuzun (Pipetin hareketini etkileyen faktörler nelerdir?) cevabına ulaşmaya çalışacağız.
+Günlük hayatta kullandığımız bazı içeceklerin içine pipet koyduğumuzda pipetin yükseldiğini hatta bazen devrildiğini gözlemleyebiliriz. Hangi koşullar altında pipet yükselir? Pipetin yükselme hızını etkileyen faktörler nelerdir? Hangi durumda pipet devrilir? Sorularının cevaplarını bularak amacımıza ulaşmaya çalışacağız. Bunun için ilk olarak aynı koşullar altında iki farklı cins gazlı içeceğe özdeş pipetler yerleştirecek ve pipetlerin hareketleri arasındaki farkı gözlemleyeceğiz. Daha sonra özdeş içecekler ve özdeş pipetler kullanacak, bu sefer de sıvı miktarını değiştirerek aynı işlemi gerçekleştireceğiz. Kullandığımız kabın ve pipetin etkisi olup olmadığını gözlemlemek için de kabın cinsini değiştirerek diğer etmenleri sabit tutacağız ve son olarak da aynı işlemi pipetin cinsini değiştirerek gerçekleştireceğiz. Deneylerden elde ettiğimiz bütün sonuçları karşılaştırarak sorularımızın cevaplarını bulup asıl sorumuzun (Pipetin hareketini etkileyen faktörler nelerdir?) cevabına ulaşmış olacağız. 
 
 ## Kaynakçalar  
 
